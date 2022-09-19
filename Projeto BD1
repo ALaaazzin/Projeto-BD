@@ -1,0 +1,13 @@
+ O  que é ? e pra que serve o join ?Quando devemos utilizar o join?
+Um JOIN é um meio de combinar colunas de uma (auto-junção) ou mais tabelas, usando valores comuns a cada uma delas.
+O SQL padrão ANSI especifica cinco tipos de JOIN: INNER JOIN, LEFT JOIN, RIGHT JOIN, FULL JOIN e CROSS JOIN
+A utilização de join em instruções SELECT é o uso mais comum do join. Mas existem situações onde queremos modificar, 
+ou mesmo apagar, dados de determinadas tabelas com bases nas suas relações com outras tabelas
+
+Sintaxe e quais são os passos para ENTERNDER e dOMINAR o Join?
+É importante se atentar para algumas dicas de como usar o comando JOIN no SQL de uma maneira eficiente
+Primeiro, é necessário usar aliases (apelidos) para as tabelas, o que ajuda na hora de identificá-las. 
+Uma forma de fazer isso é usar apenas a primeira letra do termo, por exemplo.
+Outra dica essencial é saber exatamente as diferenças entre os comandos que mostramos aqui.
+Assim, você poderá ter uma boa visão de como usá-los e poderá fazer a filtragem do jeito que deseja
+INNER JOIN ,LEFT JOIN, RIGHT JOIN, FULL JOIN e CROSS JOIN
